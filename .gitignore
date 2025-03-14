@@ -57,6 +57,13 @@ Build/*
 Build/*/**
 !Build/*/PakBlacklist*.txt
 
+# Ignore Starter Content 
+Content/StarterContent/*
+
+Content/Characters/Mannequins/*
+
+Content/GroupWork/UI/UISound*
+
 # Don't ignore icon files in Build
 !Build/**/*.ico
 
